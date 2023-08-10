@@ -1,0 +1,33 @@
+0 baboon
+1 book
+2 book shelf
+3 buffalo
+4 compact disk
+5 cheater
+6 clothes
+7 computer
+8 crocodile
+9 desk
+10 elephant
+11 file
+12 giraffe
+13 hippopotamus
+14 human hand
+15 hyena
+16 leopard
+17 lion
+18 lioness
+19 man
+20 marker pen
+21 mobile phone
+22 monkey
+23 ostrich
+24 paper
+25 pen
+26 rhino
+27 shoes
+28 spectacles
+29 window
+30 window shades with curtains
+31 woman
+32 zebra
