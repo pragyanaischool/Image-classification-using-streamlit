@@ -6,8 +6,8 @@ This is an image classification web application deployed using Streamlit
 IDE of your choice: VS Code, Google Colab, Kaggle notebook
 
 ## Contents
-The "data" folder contains the images train set  
-The "newtest" folder contains the images test set  
+The "train_data" folder contains the images train set  
+The "test_data" folder contains the images test set  
 
 ## Steps
 1) Create the model from Google Teachable Machine by uploading the images and train the model. You can find it through this link:
