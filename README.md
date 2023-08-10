@@ -18,3 +18,8 @@ https://teachablemachine.withgoogle.com/
 3) Create a python script "ïmage.py" and put the Streamlit code. Ensure the keras_model.h5, labels.txt and the image.py are in the same folder
 
 4) Run the code: streamlit run image.py
+
+Here's a look:
+![Home page](streamlit homepage.png)
+![Uploaded image](uploaded image.png)
+![Camera captured image](camera captured image.png)
