@@ -20,6 +20,11 @@ https://teachablemachine.withgoogle.com/
 4) Run the code: streamlit run image.py
 
 Here's a look:
+Home Page
 ![Home page](/streamlit%20homepage.png)
+
+Uploaded Image
 ![Uploaded image](/uploaded%20image.png)
+
+Camera-captured Image
 ![Camera captured image](/camera%20captured%20image.png)
