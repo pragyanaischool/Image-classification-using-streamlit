@@ -11,3 +11,4 @@ packaging
 requests
 requests-file
 opencv-python-headless
+opencv-contrib-python
