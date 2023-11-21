@@ -10,3 +10,4 @@ h5py
 packaging
 requests
 requests-file
+opencv-python-headless
