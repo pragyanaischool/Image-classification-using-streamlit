@@ -3,7 +3,6 @@ scipy
 streamlit
 tensorflow
 keras
-opencv-python
 numpy
 Pillow
 h5py
