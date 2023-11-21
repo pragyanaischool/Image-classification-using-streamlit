@@ -1,0 +1,13 @@
+scikit-learn
+scipy
+streamlit
+tensorflow
+Keras
+numpy
+Pillow
+opencv-python
+h5py
+packaging
+requests
+requests-file
+
