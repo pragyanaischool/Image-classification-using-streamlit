@@ -2,12 +2,11 @@ scikit-learn
 scipy
 streamlit
 tensorflow
-Keras
+keras
+opencv-python
 numpy
 Pillow
-opencv-python
 h5py
 packaging
 requests
 requests-file
-
